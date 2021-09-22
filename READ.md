@@ -18,3 +18,6 @@ Than, open the Godot Client Project with Godot Engine and run it to connect the 
 
 Type something on the runing text box to see the server response on your terminal console.
 *Type Ctrl+C twice to end the server aplication.
+
+MIT License Use as you want
+by Diego Ferrari Bruno
